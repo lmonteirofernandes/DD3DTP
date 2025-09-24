@@ -61,7 +61,7 @@ The trained models can be tested with the `statistical_analysis.py` script and t
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the Apache License. See `LICENSE` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
