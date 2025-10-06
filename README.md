@@ -3,7 +3,7 @@
 <h3 align="center">Data-driven surrogate model for predicting the toughness of 3D polycrystals</h3>
 
   <p align="center">
-    This repository contains the code for a data-driven neural network for surrogate modeling brittle fracture of 3D polycrystalline materials. Once trained, a speedup of 150 times can be achieved compared to FFT computations.
+    This repository contains the code for a data-driven neural network for surrogate modeling brittle fracture of 3D polycrystalline materials. Once trained, a speedup of 150 times can be achieved compared to FFT computations. Our work is currently available as a preprint: <a href="url"> https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5531653 </a>. 
     <br />
     <br />
   </p>
