@@ -70,17 +70,22 @@ Distributed under the Apache License. See `LICENSE` for more information.
 
 Please cite our work with
 ```sh
-@article{monteiro_fernandes_data-driven_2025,
+@misc{monteiro_fernandes_data-driven_2025,
+	address = {Rochester, NY},
+	type = {{SSRN} {Scholarly} {Paper}},
 	title = {Data-driven surrogate model for predicting the toughness of {3D} polycrystals},
-	volume = { },
-	issn = { },
-	doi = { },
-	journal = { },
+	url = {https://papers.ssrn.com/abstract=5531653},
+	doi = {10.2139/ssrn.5531653},
+	language = {en},
+	urldate = {2025-10-06},
+	publisher = {Social Science Research Network},
 	author = {Monteiro Fernandes, Lucas and Basso Della Mea, Guilherme and Blusseau, Samy and Rieder, Philipp and Neumann, Matthias and Schmidt, Volker and Proudhon, Henry and Willot, François},
-	month =  ,
+	month = sep,
 	year = {2025},
-	pages = { },
+	keywords = {brittle fracture, Data-driven, polycrystalline materials, statistical volume element, surrogate model, toughness},
 }
+
+
   ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
